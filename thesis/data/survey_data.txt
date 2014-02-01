@@ -1,0 +1,941 @@
+______________
+
+Bicycles are one of the world's most popular modes of transportation, 
+with some 800 million bicycles outnumbering cars by two to one. 
+Bicycles are also the most energy-efficient vehicle—a cyclist burns about 
+35 calories per mile (22 calories per km), while an automobile 
+burns 1,860 calories per mile (1,156 calories per km). 
+Bicycles are used not only for transportation, but for fitness, 
+competition, and touring as well. They come in myriad shapes and styles, 
+including racing bikes, all-terrain bikes, and stationary bicycles, as well as unicycles, 
+tricycles, and tandems.
+
+Source: http://www.encyclopedia.com/topic/bicycle.aspx
+______________
+
+Concept: Bicycle
+#Good Match: 21.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 0.0
+Survey Score: 4.0
+
+Concept: Outline of bicycles
+#Good Match: 3.0
+#Broader topic: 1.0
+#Related topic: 9.0
+#Not a Match: 8.0
+Survey Score: 1.09523809524
+
+Concept: Mountain bike
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 18.0
+#Not a Match: 1.0
+Survey Score: 1.04761904762
+
+Concept: Touring bicycle
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 15.0
+#Not a Match: 4.0
+Survey Score: 0.904761904762
+
+Concept: Single-speed bicycle
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 15.0
+#Not a Match: 4.0
+Survey Score: 0.904761904762
+
+Concept: Tandem bicycle
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 15.0
+#Not a Match: 4.0
+Survey Score: 0.904761904762
+
+Concept: Bicycle tire
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 16.0
+#Not a Match: 4.0
+Survey Score: 0.857142857143
+
+Concept: Centurion (bicycle)
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 13.0
+#Not a Match: 6.0
+Survey Score: 0.809523809524
+
+Concept: Unicycle
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 14.0
+#Not a Match: 6.0
+Survey Score: 0.761904761905
+
+Concept: Cycles Peugeot
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 11.0
+#Not a Match: 9.0
+Survey Score: 0.619047619048
+
+Concept: Trek Bicycle Corporation
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 12.0
+#Not a Match: 9.0
+Survey Score: 0.571428571429
+
+Concept: Q factor (bicycles)
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 12.0
+#Not a Match: 9.0
+Survey Score: 0.571428571429
+
+Concept: Turner Suspension Bicycles
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 11.0
+#Not a Match: 10.0
+Survey Score: 0.52380952381
+
+Concept: Miyata
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 6.0
+#Not a Match: 15.0
+Survey Score: 0.285714285714
+
+Concept: Head badge
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 2.0
+#Not a Match: 19.0
+Survey Score: 0.0952380952381
+
+Concept: Fitness and figure competition
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+______________
+
+Ireland has put aside its economic travails to celebrate the day of its national saint, 
+St Patrick. This year the celebrations are also global. 70 monuments like the Pyramids and 
+Rio's Christ the Redeemer statue have been lit up green.Back home, the streets of Dublin were 
+a sea of green as young and old turned out to mark the occasion. It’s been a five day affair, 
+with 8,000 visitors from around the world joining in a people's parade.Prime Minister Enda Kenny 
+has taken 19 of his ministers on a goodwill trip to sell the Irish brand abroad.More than 13 million 
+pints of Guinness will be drunk in the world across one day and Guinness is offering a free visit to 
+its factory for everyone called Patrick.
+
+Source: http://www.newsinlevels.com/products/world-went-green-for-one-day-level-31/
+______________
+
+Concept: Saint Patrick's Day
+#Good Match: 21.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 0.0
+Survey Score: 4.0
+
+Concept: Ireland
+#Good Match: 1.0
+#Broader topic: 12.0
+#Related topic: 7.0
+#Not a Match: 1.0
+Survey Score: 1.66666666667
+
+Concept: Republic of Ireland
+#Good Match: 1.0
+#Broader topic: 7.0
+#Related topic: 9.0
+#Not a Match: 4.0
+Survey Score: 1.28571428571
+
+Concept: Dublin
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 17.0
+#Not a Match: 3.0
+Survey Score: 0.904761904762
+
+Concept: Guinness
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 18.0
+#Not a Match: 3.0
+Survey Score: 0.857142857143
+
+Concept: Parade
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 11.0
+#Not a Match: 8.0
+Survey Score: 0.714285714286
+
+Concept: St Patrick's Cathedral, Dublin
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 8.0
+#Not a Match: 12.0
+Survey Score: 0.47619047619
+
+Concept: St. Patrick's blue
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 5.0
+#Not a Match: 15.0
+Survey Score: 0.333333333333
+
+Concept: Enda Kenny
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 5.0
+#Not a Match: 16.0
+Survey Score: 0.238095238095
+
+Concept: Christ the Redeemer (statue)
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 5.0
+#Not a Match: 16.0
+Survey Score: 0.238095238095
+______________
+
+Spam is a growing problem; it interferes with valid email and burdens both email users and service providers. 
+In this work, we propose a reactive spam-filtering system based on reporter reputation for use in conjunction 
+with existing spam-filtering techniques. The system has a trust-maintenance component for users, based on their 
+spam-reporting behavior. The challenge that we consider is that of maintaining a reliable system, not vulnerable 
+to malicious users, that will provide early spamcampaign detection to reduce the costs incurred by users and systems. 
+We report on the utility of a reputation system for spam filtering that makes use of the feedback of trustworthy users. 
+We evaluate our proposed framework, using actual complaint feedback from a large population of users, and validate its 
+spam-filtering performance on a collection of real email traffic over several weeks. To test the broader implication 
+of the system, we create a model of the behavior of malicious reporters, and we simulate the system under various 
+assumptions using a synthetic dataset. 
+
+Source:
+ Trusting spam reporters: A reporter-based reputation system for email filtering
+ Zheleva, Elena and Kolcz, Aleksander and Getoor, Lise
+ ACM Trans. Inf. Syst.
+ December 2008
+ http://dl.acm.org/citation.cfm?id=1416950.1416953
+______________
+
+Concept: Anti-spam techniques
+#Good Match: 13.0
+#Broader topic: 7.0
+#Related topic: 1.0
+#Not a Match: 0.0
+Survey Score: 3.19047619048
+
+Concept: E-mail spam
+#Good Match: 8.0
+#Broader topic: 8.0
+#Related topic: 5.0
+#Not a Match: 0.0
+Survey Score: 2.52380952381
+
+Concept: Spam (electronic)
+#Good Match: 8.0
+#Broader topic: 8.0
+#Related topic: 5.0
+#Not a Match: 0.0
+Survey Score: 2.52380952381
+
+Concept: E-mail filtering
+#Good Match: 6.0
+#Broader topic: 8.0
+#Related topic: 5.0
+#Not a Match: 2.0
+Survey Score: 2.14285714286
+
+Concept: Spam Prevention Early Warning System
+#Good Match: 3.0
+#Broader topic: 3.0
+#Related topic: 13.0
+#Not a Match: 2.0
+Survey Score: 1.47619047619
+
+Concept: Email
+#Good Match: 1.0
+#Broader topic: 7.0
+#Related topic: 6.0
+#Not a Match: 7.0
+Survey Score: 1.14285714286
+
+Concept: Bayesian spam filtering
+#Good Match: 1.0
+#Broader topic: 2.0
+#Related topic: 13.0
+#Not a Match: 5.0
+Survey Score: 1.0
+
+Concept: Reputation system
+#Good Match: 0.0
+#Broader topic: 4.0
+#Related topic: 4.0
+#Not a Match: 13.0
+Survey Score: 0.571428571429
+
+Concept: System
+#Good Match: 0.0
+#Broader topic: 3.0
+#Related topic: 2.0
+#Not a Match: 16.0
+Survey Score: 0.380952380952
+
+Concept: Sender Policy Framework
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 7.0
+#Not a Match: 14.0
+Survey Score: 0.333333333333
+
+Concept: Non delivery report
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 3.0
+#Not a Match: 18.0
+Survey Score: 0.142857142857
+
+Concept: Feedback
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 1.0
+#Not a Match: 20.0
+Survey Score: 0.047619047619
+______________
+
+Language sets people apart from all other creatures. Every known human society has had a language 
+and though some nonhumans may be able to communicate with one another in fairly complex ways, none 
+of their communication systems begins to approach language in its ability to convey information. 
+Nor is the transmission of complex and varied information such an integral part of the everyday lives of other creatures. 
+Nor do other communication systems share many of the design features of human language, such as the ability 
+to communicate about events other than in the here and now. But it is difficult to conceive of a human society without a language.
+Language, like culture, that other most human attribute, is notable for its unity in diversity: there are many languages and many 
+cultures, all different but all fundamentally the same, because there is one human nature and because a fundamental property of 
+this human nature is the way in which it allows such diversity in both language and culture.
+
+Source: http://www.scholarpedia.org/article/Language_(linguistics)
+______________
+
+Concept: Language
+#Good Match: 19.0
+#Broader topic: 2.0
+#Related topic: 0.0
+#Not a Match: 0.0
+Survey Score: 3.80952380952
+
+Concept: Spoken language
+#Good Match: 8.0
+#Broader topic: 4.0
+#Related topic: 8.0
+#Not a Match: 1.0
+Survey Score: 2.28571428571
+
+Concept: Communication
+#Good Match: 5.0
+#Broader topic: 12.0
+#Related topic: 3.0
+#Not a Match: 1.0
+Survey Score: 2.2380952381
+
+Concept: Origin of language
+#Good Match: 1.0
+#Broader topic: 4.0
+#Related topic: 16.0
+#Not a Match: 0.0
+Survey Score: 1.33333333333
+
+Concept: Society
+#Good Match: 0.0
+#Broader topic: 5.0
+#Related topic: 11.0
+#Not a Match: 5.0
+Survey Score: 1.0
+
+Concept: Cultural diversity
+#Good Match: 0.0
+#Broader topic: 3.0
+#Related topic: 13.0
+#Not a Match: 5.0
+Survey Score: 0.904761904762
+
+Concept: First language
+#Good Match: 0.0
+#Broader topic: 3.0
+#Related topic: 12.0
+#Not a Match: 6.0
+Survey Score: 0.857142857143
+
+Concept: Distributed language
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 5.0
+#Not a Match: 14.0
+Survey Score: 0.428571428571
+
+Concept: Palula language
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 5.0
+#Not a Match: 15.0
+Survey Score: 0.333333333333
+
+Concept: System
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 0.0
+#Not a Match: 19.0
+Survey Score: 0.190476190476
+
+Concept: Journal of Human Genetics
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 1.0
+#Not a Match: 20.0
+Survey Score: 0.047619047619
+
+Concept: Design
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+
+Concept: Line integral
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+
+Concept: Cauchy's integral theorem
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+
+Concept: Systems design
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+
+Concept: Systems theory
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+______________
+
+Three International Space Station crew have returned to Earth safely. 
+The Russian Soyuz capsule carrying them landed in Kazakhstan a day later 
+than planned due to poor weather conditions.The Russo-American trio Kevin Ford, 
+Oleg Novitskiy and Evgeny Tarelkin had spent 144 days aboard the space station and 
+clocked up about 61 million miles in space. The crew's descent took just under four hours. 
+NASA reported that the deorbit burn had gone flawlessly, with the capsule landing upright 
+almost hitting the bulls-eye landing spot through thick fog. The crew are said to be doing 
+well and will be transported to a post-flight rehabilitation centre.
+
+Source: http://www.newsinlevels.com/products/astronauts-are-back-from-space-level-31/
+______________
+
+Concept: International Space Station
+#Good Match: 8.0
+#Broader topic: 4.0
+#Related topic: 9.0
+#Not a Match: 0.0
+Survey Score: 2.33333333333
+
+Concept: Space exploration
+#Good Match: 2.0
+#Broader topic: 14.0
+#Related topic: 4.0
+#Not a Match: 1.0
+Survey Score: 1.90476190476
+
+Concept: Space station
+#Good Match: 3.0
+#Broader topic: 8.0
+#Related topic: 9.0
+#Not a Match: 1.0
+Survey Score: 1.7619047619
+
+Concept: Space Shuttle program
+#Good Match: 2.0
+#Broader topic: 3.0
+#Related topic: 15.0
+#Not a Match: 1.0
+Survey Score: 1.38095238095
+
+Concept: Soyuz (spacecraft)
+#Good Match: 3.0
+#Broader topic: 0.0
+#Related topic: 17.0
+#Not a Match: 1.0
+Survey Score: 1.38095238095
+
+Concept: Soyuz programme
+#Good Match: 2.0
+#Broader topic: 0.0
+#Related topic: 16.0
+#Not a Match: 3.0
+Survey Score: 1.14285714286
+
+Concept: Soyuz TMA-06M
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 13.0
+#Not a Match: 7.0
+Survey Score: 0.714285714286
+
+Concept: Space Station Freedom
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 10.0
+#Not a Match: 9.0
+Survey Score: 0.666666666667
+
+Concept: Soyuz-U
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 11.0
+#Not a Match: 9.0
+Survey Score: 0.619047619048
+
+Concept: Soyuz-TMA
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 11.0
+#Not a Match: 9.0
+Survey Score: 0.619047619048
+
+Concept: Space policy of the United States
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 8.0
+#Not a Match: 11.0
+Survey Score: 0.571428571429
+
+Concept: Vision for Space Exploration
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 9.0
+#Not a Match: 11.0
+Survey Score: 0.52380952381
+
+Concept: Dragon (spacecraft)
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 7.0
+#Not a Match: 13.0
+Survey Score: 0.428571428571
+
+Concept: Marshall Space Flight Center
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 8.0
+#Not a Match: 13.0
+Survey Score: 0.380952380952
+
+Concept: Space Shuttle abort modes
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 5.0
+#Not a Match: 15.0
+Survey Score: 0.333333333333
+______________
+
+Banana, fruit of the genus Musa, of the family Musaceae, one of the most important food crops of the world. 
+The banana is consumed extensively throughout the tropics, where it is grown, and is also valued in the temperate zone for its flavour, 
+nutritional value, and availability throughout the year. The plant is a gigantic herb that springs from an underground stem, or rhizome, 
+to form a false trunk 3–6 metres (10–20 feet) high.
+
+Source: http://global.britannica.com/EBchecked/topic/51297/banana
+______________
+
+Concept: Banana
+#Good Match: 21.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 0.0
+Survey Score: 4.0
+
+Concept: Musa (genus)
+#Good Match: 1.0
+#Broader topic: 11.0
+#Related topic: 6.0
+#Not a Match: 3.0
+Survey Score: 1.52380952381
+
+Concept: Herbaceous plant
+#Good Match: 0.0
+#Broader topic: 11.0
+#Related topic: 5.0
+#Not a Match: 5.0
+Survey Score: 1.28571428571
+
+Concept: Banana cultivar groups
+#Good Match: 0.0
+#Broader topic: 5.0
+#Related topic: 14.0
+#Not a Match: 2.0
+Survey Score: 1.14285714286
+
+Concept: Musa acuminata
+#Good Match: 2.0
+#Broader topic: 0.0
+#Related topic: 9.0
+#Not a Match: 10.0
+Survey Score: 0.809523809524
+
+Concept: Musa balbisiana
+#Good Match: 2.0
+#Broader topic: 0.0
+#Related topic: 9.0
+#Not a Match: 10.0
+Survey Score: 0.809523809524
+
+Concept: Rhino Horn banana
+#Good Match: 1.0
+#Broader topic: 0.0
+#Related topic: 13.0
+#Not a Match: 7.0
+Survey Score: 0.809523809524
+
+Concept: Musa velutina
+#Good Match: 2.0
+#Broader topic: 0.0
+#Related topic: 9.0
+#Not a Match: 10.0
+Survey Score: 0.809523809524
+
+Concept: Saba banana
+#Good Match: 1.0
+#Broader topic: 0.0
+#Related topic: 13.0
+#Not a Match: 7.0
+Survey Score: 0.809523809524
+
+Concept: Cavendish banana
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 14.0
+#Not a Match: 6.0
+Survey Score: 0.761904761905
+
+Concept: Plant stem
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 11.0
+#Not a Match: 8.0
+Survey Score: 0.714285714286
+
+Concept: Latundan banana
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 14.0
+#Not a Match: 7.0
+Survey Score: 0.666666666667
+______________
+
+Consumer search on the Internet is rarely random. 
+Sponsored links appear higher up a webpage and consumers often click them. 
+Firms also bid aggressively for these prominent positions at the top of the page. 
+But why should prominence matter, when visiting an additional website is almost costless? 
+I present a model in which consumers know their valuations for the products offered 
+in the market but do not know which retailer sells which product. 
+I show that a prominent retailer earns significantly more profit than other firms, 
+even when the cost of searching websites and comparing products is essentially zero. 
+
+Sorce:
+ Can Prominence Matter even in an Almost Frictionless Market?
+ Rhodes, Andrew
+ The Economic Journal, vol 121, nr 556
+ 2011
+ http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2011.02465.x/abstract
+______________
+
+Concept: Search engine marketing
+#Good Match: 7.0
+#Broader topic: 5.0
+#Related topic: 9.0
+#Not a Match: 0.0
+Survey Score: 2.2380952381
+
+Concept: Internet marketing
+#Good Match: 3.0
+#Broader topic: 9.0
+#Related topic: 8.0
+#Not a Match: 1.0
+Survey Score: 1.80952380952
+
+Concept: Web search engine
+#Good Match: 1.0
+#Broader topic: 6.0
+#Related topic: 12.0
+#Not a Match: 2.0
+Survey Score: 1.33333333333
+
+Concept: Consumers Research
+#Good Match: 2.0
+#Broader topic: 2.0
+#Related topic: 9.0
+#Not a Match: 8.0
+Survey Score: 1.0
+
+Concept: Profit (economics)
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 5.0
+#Not a Match: 16.0
+Survey Score: 0.238095238095
+
+Concept: Cost accounting
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 2.0
+#Not a Match: 18.0
+Survey Score: 0.190476190476
+
+Concept: Profit (accounting)
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 3.0
+#Not a Match: 18.0
+Survey Score: 0.142857142857
+
+Concept: Consumer organization
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 3.0
+#Not a Match: 18.0
+Survey Score: 0.142857142857
+
+Concept: Consumer protection
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 3.0
+#Not a Match: 18.0
+Survey Score: 0.142857142857
+
+Concept: Total cost
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 2.0
+#Not a Match: 19.0
+Survey Score: 0.0952380952381
+
+Concept: Consumers' Association
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 2.0
+#Not a Match: 19.0
+Survey Score: 0.0952380952381
+
+Concept: Gross profit
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 2.0
+#Not a Match: 19.0
+Survey Score: 0.0952380952381
+
+Concept: Consumers Union
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 2.0
+#Not a Match: 19.0
+Survey Score: 0.0952380952381
+
+Concept: Consumers' Institute of New Zealand
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 1.0
+#Not a Match: 20.0
+Survey Score: 0.047619047619
+
+Concept: Cost-Volume-Profit Analysis
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 1.0
+#Not a Match: 20.0
+Survey Score: 0.047619047619
+
+Concept: Australian Consumers' Association
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 1.0
+#Not a Match: 20.0
+Survey Score: 0.047619047619
+
+Concept: Gross margin
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 1.0
+#Not a Match: 20.0
+Survey Score: 0.047619047619
+
+Concept: Product liability
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+
+Concept: Omni Consumer Products
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+______________
+
+Reinforcement learning (RL) is learning by interacting with an environment.
+An RL agent learns from the consequences of its actions, 
+rather than from being explicitly taught and it selects its actions on basis 
+of its past experiences (exploitation) and also by new choices (exploration), 
+which is essentially trial and error learning. The reinforcement signal that 
+the RL-agent receives is a numerical reward, which encodes the success of an action's outcome, 
+and the agent seeks to learn to select actions that maximize the accumulated reward over time. 
+(The use of the term reward is used here in a neutral fashion and does not imply any pleasure, 
+hedonic impact or other psychological interpretations.)
+
+Source: http://www.scholarpedia.org/article/Reinforcement_learning
+______________
+
+Concept: Reinforcement learning
+#Good Match: 20.0
+#Broader topic: 0.0
+#Related topic: 1.0
+#Not a Match: 0.0
+Survey Score: 3.85714285714
+
+Concept: RL
+#Good Match: 18.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 3.0
+Survey Score: 3.42857142857
+
+Concept: Error-driven learning
+#Good Match: 1.0
+#Broader topic: 8.0
+#Related topic: 11.0
+#Not a Match: 1.0
+Survey Score: 1.47619047619
+
+Concept: Trial and error
+#Good Match: 0.0
+#Broader topic: 7.0
+#Related topic: 8.0
+#Not a Match: 6.0
+Survey Score: 1.04761904762
+
+Concept: Intelligent agent
+#Good Match: 2.0
+#Broader topic: 2.0
+#Related topic: 10.0
+#Not a Match: 7.0
+Survey Score: 1.04761904762
+
+Concept: Q-learning
+#Good Match: 1.0
+#Broader topic: 1.0
+#Related topic: 13.0
+#Not a Match: 6.0
+Survey Score: 0.904761904762
+
+Concept: Reward system
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 13.0
+#Not a Match: 6.0
+Survey Score: 0.809523809524
+
+Concept: Reinforcement
+#Good Match: 1.0
+#Broader topic: 4.0
+#Related topic: 5.0
+#Not a Match: 11.0
+Survey Score: 0.809523809524
+
+Concept: Virtual learning environment
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 12.0
+#Not a Match: 7.0
+Survey Score: 0.761904761905
+
+Concept: Latent learning
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 13.0
+#Not a Match: 7.0
+Survey Score: 0.714285714286
+
+Concept: Temporal difference learning
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 12.0
+#Not a Match: 8.0
+Survey Score: 0.666666666667
+
+Concept: Agent
+#Good Match: 0.0
+#Broader topic: 1.0
+#Related topic: 8.0
+#Not a Match: 12.0
+Survey Score: 0.47619047619
+
+Concept: SMART Agent
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 5.0
+#Not a Match: 14.0
+Survey Score: 0.428571428571
+
+Concept: Reward
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 5.0
+#Not a Match: 14.0
+Survey Score: 0.428571428571
+
+Concept: E-learning
+#Good Match: 0.0
+#Broader topic: 2.0
+#Related topic: 4.0
+#Not a Match: 15.0
+Survey Score: 0.380952380952
+
+Concept: Operant conditioning
+#Good Match: 0.0
+#Broader topic: 3.0
+#Related topic: 2.0
+#Not a Match: 16.0
+Survey Score: 0.380952380952
+
+Concept: Chronology of Continuity Irish Republican Army actions
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0
+
+Concept: Timeline of Ulster Defence Association actions
+#Good Match: 0.0
+#Broader topic: 0.0
+#Related topic: 0.0
+#Not a Match: 21.0
+Survey Score: 0.0

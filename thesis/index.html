@@ -1,0 +1,199 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Markus Östberg Personal Page">
+    <meta name="author" content="Markus Östberg">
+
+    <title>Markus Östberg</title>
+
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Markus <b>Östberg</b></a>
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="../.">Home</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Navigation <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="index.html">Thesis Project</a></li>
+                  <li class="divider"></li>
+                  <li><a href="http://www.linkedin.com/in/markusos">LinkedIn</a></li>
+                  <li><a href="https://github.com/markusos">GitHub</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- page content -->
+
+      <div class="jumbotron text-center">
+        <h2>Subtopic extraction<br />using graph-based methods</h2>
+        <img class="img-circle" data-src="holder.js/200x200" alt="me" src="code.png" style="width: 200px; height: 200px;">
+        <h3>Master Thesis Project</h3>
+        <h3>Markus &Ouml;stberg</h3>
+        <div class="row">markusos@kth.se</div>
+      </div>
+      
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Preface</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          This is the presentation page for my master’s thesis project in Computer Science at the School of Computer Science and Engineering at the Royal Institute of Technology (KTH). 
+          The project was provided by Findwise AB, a company that specializes in search solutions, and most of the work was conducted in their office in Stockholm. 
+          I would like to thank Findwise, and especially my project provider Simon Stenström, for all the support and always making me feel welcome.
+          I also want to thank my supervisor at KTH, Jussi Karlgren, for all his valuable insights and advice during the project.
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Data</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+            <h5>Report</h5>
+            <p><a href="data/xjobb_markusos_final.pdf">Thesis Report - Final Version</a></p>
+        </div>
+        <div class="col-md-4">
+          <h5>Resources</h5>
+            <p><a href="data/stopwords.txt">Stop words</a></p>
+            <p><a href="http://wiki.dbpedia.org/About">DBpedia</a></p>
+            <p><a href="http://www.elasticsearch.org/">ElasticSearch</a></p>
+            <p><a href="http://www.mongodb.org/">MongoDB</a></p>
+        </div>
+        <div class="col-md-4">
+            <h5>Evaluation Datasets</h5>
+            <p><a href="data/small_simple_Wikipedia_dataset.json">Small Simple Wikipedia Dataset</a></p>
+            <p><a href="data/simple_Wikipedia_dataset.json">Large Simple Wikipedia Dataset</a></p>
+            <p><a href="data/survey_data.txt">Survey Data</a></p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Abstract</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <p>
+            This report presents a subtopic extraction method using search engine
+            technology, combined with graph centrality ranking of topic candidates.
+            The implemented system uses Wikipedia as a knowledge base to extract
+            and rank topic candidates. Multiple methods of topic extraction are
+            evaluated. Primary methods based on search engine technology are
+            explored. The use of a state-of-the art annotation system of Wikipedia
+            concepts for topic extraction is also explored as comparison to previous
+            work. In this project, the system DBpedia spotlight is used for this
+            comparison. It is also evaluated how graph centrality algorithms can
+            be used to improve the results from the system. This includes using
+            algorithms like PageRank, Degree centrality, Closeness centrality and
+            Betweenness centrality to rank the extracted topic candidates. A good
+            ranking is achieved when relevant topic candidates are given a higher
+            rank than less relevant topic candidates. A topic candidate is considered
+            relevant if it is relevant to the given input data text
+          </p>
+          <p>
+            The system is implemented using the open source search engine
+            ElasticSearch. The system is evaluated on abstracts from the Simple
+            English Wikipedia. The results show that the system in 85% of the
+            evaluated test cases finds the expected topic of the text in the top 10
+            ranked topic candidates. A survey was conducted where participants
+            were asked to classify results from the system based on how well they
+            matched a given text. The data from the survey shows that, in most
+            cases, graph centrality ranking does improve the results noticeably,
+            compared to only using the Term Frequency and Inverse Document
+            Frequency (TF-IDF) ranking given by the search engine.
+          </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Referat</h3>
+          <h4>Delämnesextraktion med grafbaserade metoder</h4>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <p>
+            Denna rapport presenterar ett system för delämnesextraktion som använder
+             sökmotorteknologi i kombination med grafcentralitet för att rangordna
+             möjliga ämneskandidater. Det implementerade systemet använder
+            Wikipedia som en kunskapsbas för att extrahera och rangordna möjliga
+            ämnen. Flera metoder för ämnesextraktion undersöks. Primärt utforskas
+            ämnesextraktion baserad på sökmotorteknologi. Som jämförelse med
+            tidigare arbeten undersöks även hur ett ”state-of-the-art”-system för
+            annotering av Wikipedia-koncept kan användas för ämnesextraktion. I
+            detta projekt används systemet DBpedia spotlight för denna jämförelse.
+            I rapporten utvärderas även hur grafcentralitet kan användas för att
+            förbättra resultaten. Detta inkluderar användandet av algoritmer som
+            PageRank, Degree-centralitet, Closeness-centralitet och Betweenness-
+            centralitet för att rangordna de extraherade ämneskandidaterna. En
+            bra rangordning motsvaras av att de relevanta ämneskandidaterna ges
+            en högre rank än mindre relevanta resultat. En ämneskandidat är relevant
+             om den kan anses vara ett representativt ämne för den givna
+            indata-texten.
+          </p>
+          <p>
+            Systemet är implementerat med ”open source”-sökmotorn ElasticSearch. 
+            För att utvärdera systemet användes introduktionsstyckena från
+            Simple English Wikipedia-artiklar. Resultatet visar att i 85% av de
+            utvärderade testfallen finns det förväntade ämnet med bland de 
+            topp-10-rankade ämneskandidaterna. En undersökning genomfördes där deltagarna 
+            ombads klassifiera resultat från systemet baserat på hur väl de
+            matchade en given text. Data från undersökingen visar att grafcentralitet, 
+            i de flesta fall, förbättrar resultaten märkbart, jämfört med att
+            bara använda term-frekvens- och invers dokument-frekvens- (TF-IDF)
+            rankingen given av sökmotorn. 
+          </p>
+        </div>
+      </div>
+
+      <!-- /page content -->
+
+      <div class="footer">
+        <p>&copy; Markus Östberg 2014</p>
+      </div>
+
+    </div> <!-- /container -->
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="../js/jquery-2.1.0.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+  </body>
+</html>
+ 
