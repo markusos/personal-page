@@ -28,16 +28,17 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Markus <b>Östberg</b></a>
+            <a class="navbar-brand" href="../.">Markus <b>Östberg</b></a>
           </div>
 
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="../index.html">Home</a></li>
+              <li><a href="../.">Home</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Navigation <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                  <li><a href="../thesis/index.html">Thesis Project</a></li>
+                  <li><a href="../thesis/">Thesis Project</a></li>
+                  <li><a href="../projects/">My Projects</a></li>
                   <li class="divider"></li>
                   <li><a href="http://www.linkedin.com/in/markusos">LinkedIn</a></li>
                   <li><a href="https://github.com/markusos">GitHub</a></li>
@@ -48,10 +49,105 @@
         </div>
       </nav>
 
-
       <!-- page content -->
 
-      <!-- TODO: project page content here... -->
+      <div class="jumbotron text-center">
+        <h1>My Projects</h1>
+        <img class="img-circle" data-src="holder.js/200x200" alt="me" src="../img/mandelbrot.png" style="width: 200px; height: 200px;">
+        <h3>A collection of some of my projects <br /> - both in and outside of school</h3>
+      </div>
+
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Robotics and Autonomous Systems Project</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6">
+          <p>The task of the robot is to be able to explore an unknown maze and find tags on
+          the walls and identify the type and color of the tag. After the maze has been explored the
+          robot should then “collect” all the tags in the fastest way possible. You collect a tag when the
+          robot drives up to it so that the camera can identify the type and color of the tag. How to solve
+          this task in the best way possible was the problem of the course.</p>
+        </div>
+        <div class="col-md-6 text-right">
+          <video width="310" height="180" controls>
+            <source src="../data/robot.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>  
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <p>The project was focused on the software implementation of the robot rather than the
+          mechanical design since that was the hardest part to get to work well. Another important
+          aspect was the project process; by carrying out this project we were expected to gain some
+          experience in planning and executing development work in international project groups.
+          Throughout the whole project we have continuously had group meetings and produced
+          weekly individual reports in order to aid the development process. </p>
+
+          <p>The video shows the robot in the test-maze during development.</p>  
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Raspberry PI Server Project</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+         <img class="img-thumbnail" data-src="holder.js/200x200" alt="raspberrypi" src="../img/raspberrypi.jpg" style="width: 200px; height: 200px;">    
+        </div>
+        <div class="col-md-8">
+          <p>The Raspberry PI is a small single-board computer with Broadcom BCM2835 SoC. It has a 700MHz ARM processor and 512 MB of RAM. </p> 
+          <p>My Raspberry PI server runs Raspbian, a Debian based Linux distribution, and is mainly used as a development and test server for my own projects. </p>
+          <p><a href="http://www.raspberrypi.org/">The Raspberry Pi Foundation</a></p> 
+          <p><a href="http://www.raspbian.org/">Raspbian Linux distribution</a></p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Bachelor’s Degree Project</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-8">
+          <h4>Genetic algorithms <br /> How does its parameters affect evolution?</h4>
+          <h4>Abstract</h4>
+          <p>Genetic algorithms is a method to solve optimization problems by imitating natural evolution. In the work that leads up to this report we use genetic algorithms to solve a complex problem. The problem is to develop a vehicle that can get through a predefined obstacle course. The main part of this report is devoted to examining which values that are suitable to use on the parameters that exist in the genetic algorithm, so that it will be as efficient as possible.</p>
+
+          <h5>Report</h5>
+          <p><a href="../data/sandstrom_anders_and_ostberg_markus_K11006.pdf">Project Report - Final Version (Swedish)</a></p>
+        </div>
+        <div class="col-md-4 text-right">
+         <img class="img-thumbnail" data-src="holder.js/200x200" alt="dkand" src="../img/dkand.png" style="width: 200px; height: 200px;">    
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3>Mandelbrot Explorer</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+         <img class="img-thumbnail" data-src="holder.js/200x200" alt="raspberrypi" src="../img/mandelbrot.png" style="width: 200px; height: 200px;">    
+        </div>
+        <div class="col-md-8">
+          <p>Mandelbrot Explorer is a small javascript project where I visualize the Mandelbrot Set in the browser and let the user explore the Mandelbrot Set space.</p>
+
+          <p>The explorer is written in JavaScript using an HTML5 Web Worker to calculate the Mandelbrot Set image for the currently zoomed area. The user can zoom by clicking anywhere on the image and the current zoom level and coordinates is displayed to the user.</p>
+          <p><a href="https://github.com/markusos/mandelbrotExplorer">Mandelbrot Explorer on GitHub</a></p> 
+          <p><a href="mandelbrotExplorer/.">Live Demo</a></p>
+        </div>
+      </div>
 
       <!-- /page content -->
 
